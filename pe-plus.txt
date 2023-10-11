@@ -1,10 +1,10 @@
 [ Info ]
 ROM: PixelExperience (Plus)
 Android version: 13
-Latest: 20231008-1452
-Security patch: September 2023
 Device: Mi 11
 Codename: venus
+Latest: 20231008-1452
+Security patch: September 2023
 
 [ Features ]
 60Hz/90Hz/120Hz refresh rate

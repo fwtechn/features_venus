@@ -8,7 +8,6 @@ Security patch: September 2023
 
 [ Features ]
 60Hz/90Hz/120Hz refresh rate
-Min/Max refresh rate controls
 Vo5G(VoNR)
 5G SA and NSA
 Google Camera included

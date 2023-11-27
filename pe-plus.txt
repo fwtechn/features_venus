@@ -13,3 +13,6 @@ Vo5G(VoNR)
 Google Camera included
 Firmware included
 SafetyNet passes by default
+
+[ Bugs ]
+Google Pay/Wallet

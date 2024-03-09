@@ -1,6 +1,7 @@
 [Info]
 ・ROM: PixelExperience
-・Android version: 14
+・Type: Unofficial
+・Version: 14 Beta
 ・Device: Mi 11
 ・Codename: venus
 ・Date: 20240308-1510
@@ -11,7 +12,5 @@
 
 [Features]
 ・60Hz/90Hz/120Hz refresh rate
-・Vo5G
-・5G SA and NSA
 ・Google Camera included
 ・Firmware included

@@ -1,0 +1,18 @@
+[Info]
+・ROM: PixelOS
+・Android version: 14
+・Device: Mi 11
+・Codename: venus
+・Date: 20240223-1309
+・Security patch: February 2024
+
+[Changelog]
+・Initial build
+
+[Notes]
+・60Hz/90Hz/120Hz refresh rate
+・Vo5G
+・5G SA and NSA
+・Google Camera included
+・Firmware included
+・Play integrity failed

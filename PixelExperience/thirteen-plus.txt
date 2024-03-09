@@ -1,0 +1,23 @@
+[Info]
+ROM: PixelExperience Plus
+Android version: 13
+Device: Mi 11
+Codename: venus
+Latest: 20240103-1745
+Security patch: November 2023
+
+[Features]
+60Hz/90Hz/120Hz refresh rate
+Vo5G(VoNR)
+5G SA and NSA
+Google Camera included
+Camera2 API included
+Firmware included
+SafetyNet passes by default
+
+[Changelog]
+(20240103-1745)
+- November security patch
+- Changed firmware images to MIUI Global V14.0.7.0
+- Changed GCam package to eng
+- Added Camera2 API in build.prop

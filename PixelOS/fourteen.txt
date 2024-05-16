@@ -1,14 +1,17 @@
 [Info]
 ・ROM: PixelOS
 ・Type: Unofficial
-・Version: 14 Beta
+・Version: 14
 ・Device: Mi 11
 ・Codename: venus
-・Date: 20240223-1309
-・Security patch: February 2024
+・Date: 20240515-1822
+・Security patch: May 2024
 
 [Changelog]
-・Initial build
+・May 2024 security patch
+・Add Thermal Profiles
+・Add Per-app refresh rate
+・Update firmware images to HyperOS V1.0.2.0 Global
 
 [Notes]
 ・60Hz/90Hz/120Hz refresh rate
